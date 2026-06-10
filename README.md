@@ -8,15 +8,23 @@ These projects helped me move from basic AWS fundamentals to building AI-powered
 
 ## 🚀 Projects
 
+### 🌐 Cloud Fundamentals & Infrastructure
+
 | Project                                 | Skills Demonstrated                                                      | Documentation                          |
 | --------------------------------------- | ------------------------------------------------------------------------ | -------------------------------------- |
-| AWS Account Setup & Security            | AWS Account Management, MFA, Billing Alerts, Cloud Security Fundamentals | [View Project](https://learn.nextwork.org/happy_azure_swift_duck/docs/aws-account-setup) |
-| Host a Website on Amazon S3             | Amazon S3, Static Website Hosting, Bucket Policies, Access Control       | [View Project](https://learn.nextwork.org/projects/aws-host-a-website-on-s3)        |
-| Cloud Security with AWS IAM             | IAM Users, Groups, Policies, Role-Based Access Control                   | [View Project](https://learn.nextwork.org/happy_azure_swift_duck/docs/aws-security-iam)      |
-| Build a Virtual Private Cloud (VPC)     | VPC, Subnets, Internet Gateway, Networking Fundamentals                  | [View Project](https://learn.nextwork.org/happy_azure_swift_duck/docs/aws-networks-vpc)    |
-| Build an AI Chatbot with Amazon Bedrock | Foundation Models, Converse API, Prompt Engineering, Guardrails          | [View Project](https://learn.nextwork.org/happy_azure_swift_duck/docs/aws-genai-bedrock-chatbot)        |
-| AI Finance Agent with Amazon Bedrock    | Bedrock Agents, Code Interpreter, Agent Memory, Financial Analysis       | [View Project](https://learn.nextwork.org/happy_azure_swift_duck/docs/aws-genai-bedrock-agent)     |
-| AI Email Router with Bedrock Flows      | Bedrock Flows, Prompt Management, Conditional Routing, Guardrails        | [View Project](https://learn.nextwork.org/happy_azure_swift_duck/docs/aws-genai-bedrock-flows)      |
+| AWS Account Setup & Security            | AWS Account Management, MFA, Billing Alerts, Cloud Security Fundamentals | [View Project](./cloud-fundamentals/legendary-aws-account-setup.md) |
+| Host a Website on Amazon S3             | Amazon S3, Static Website Hosting, Bucket Policies, Access Control       | [View Project](./cloud-fundamentals/legendary-aws-host-a-website-on-s3.md) |
+| Cloud Security with AWS IAM             | IAM Users, Groups, Policies, Role-Based Access Control                   | [View Project](./cloud-fundamentals/legendary-aws-security-iam.md) |
+| Build a Virtual Private Cloud (VPC)     | VPC, Subnets, Internet Gateway, Networking Fundamentals                  | [View Project](./cloud-fundamentals/legendary-aws-networks-vpc.md) |
+| Join the Cloud Beginner Challenge       | Learning Path, Cloud Fundamentals, Practical Applications                | [View Project](./cloud-fundamentals/legendary-aws-beginners-challenge.md) |
+
+### 🤖 Amazon Bedrock & Generative AI
+
+| Project                                 | Skills Demonstrated                                                      | Documentation                          |
+| --------------------------------------- | ------------------------------------------------------------------------ | -------------------------------------- |
+| Build an AI Chatbot with Amazon Bedrock | Foundation Models, Converse API, Prompt Engineering, Guardrails          | [View Project](./amazon-bedrock-genai/legendary-aws-genai-bedrock-chatbot.md) |
+| AI Finance Agent with Amazon Bedrock    | Bedrock Agents, Code Interpreter, Agent Memory, Financial Analysis       | [View Project](./amazon-bedrock-genai/legendary-aws-genai-bedrock-agent.md) |
+| AI Email Router with Bedrock Flows      | Bedrock Flows, Prompt Management, Conditional Routing, Guardrails        | [View Project](./amazon-bedrock-genai/legendary-aws-genai-bedrock-flows.md) |
 
 ---
 
@@ -70,6 +78,31 @@ These projects helped me move from basic AWS fundamentals to building AI-powered
 
 I initially started exploring AWS to understand basic cloud concepts such as networking, storage, and security.
 
-As I progressed, I began working with Amazon Bedrock and discovered how cloud infrastructure can be combined with Generative AI to build intelligent applications such as chatbots, finance agents, and automated email workflows.
+As I progressed, I began working with Amazon Bedrock and discovered how cloud infrastructure can be combined with Generative AI to build intelligent applications such as chatbots, finance agents, and email routers.
 
 These projects represent my ongoing journey into Cloud Computing, Generative AI, and AI-powered application development.
+
+---
+
+## 📂 Project Structure
+
+```
+AWS-Cloud-Projects/
+├── cloud-fundamentals/          # Cloud Infrastructure & Security Projects
+│   ├── legendary-aws-account-setup.md
+│   ├── legendary-aws-host-a-website-on-s3.md
+│   ├── legendary-aws-security-iam.md
+│   ├── legendary-aws-networks-vpc.md
+│   └── legendary-aws-beginners-challenge.md
+│
+├── amazon-bedrock-genai/        # Generative AI Projects with Amazon Bedrock
+│   ├── legendary-aws-genai-bedrock-chatbot.md
+│   ├── legendary-aws-genai-bedrock-agent.md
+│   └── legendary-aws-genai-bedrock-flows.md
+│
+└── README.md                     # This file
+```
+
+---
+
+LinkedIn: <LINKEDIN_PROFILE_LINK>
