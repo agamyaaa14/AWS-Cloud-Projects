@@ -73,6 +73,3 @@ I initially started exploring AWS to understand basic cloud concepts such as net
 As I progressed, I began working with Amazon Bedrock and discovered how cloud infrastructure can be combined with Generative AI to build intelligent applications such as chatbots, finance agents, and automated email workflows.
 
 These projects represent my ongoing journey into Cloud Computing, Generative AI, and AI-powered application development.
-
-
-LinkedIn: <LINKEDIN_PROFILE_LINK>
