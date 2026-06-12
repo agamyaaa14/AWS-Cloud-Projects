@@ -32,9 +32,9 @@ These projects helped me move from basic AWS fundamentals to building AI-powered
 
 | Project                                 | Skills Demonstrated                                                      | Documentation                          |
 | --------------------------------------- | ------------------------------------------------------------------------ | -------------------------------------- |
-| Build an Amazon Lex Chatbot             | Amazon Lex, Intents, Slots, Lambda Fulfillment, Conversation Design      | [View Project](./3-Lex%20Chatbot/legendary-aws-ai-lex.md) |
-| Lex Chatbot — Multi-turn Flow           | Conversation Design, Slot Filling, Error Handling                        | [View Project](./3-Lex%20Chatbot/legendary-aws-ai-lex1.md) |
-| Lex Bot Integrations & Testing          | Lambda Integration, Testing, Deployment                                  | [View Project](./3-Lex%20Chatbot/legendary-aws-ai-lex2.md) |
+| Build an Amazon Lex Chatbot             | Amazon Lex fundamentals, NLU/ASR concepts, Conversation design, Project documentation | [View Project](./3-Lex%20Chatbot/legendary-aws-ai-lex.md) |
+| Lex Chatbot — Multi-turn Flow           | Intent & utterance design, Fallback handling, Confidence tuning, Voice/text testing, IAM role configuration | [View Project](./3-Lex%20Chatbot/legendary-aws-ai-lex1.md) |
+| Lex Bot Integrations & Testing          | Custom slot types, Slot filling & validation, Slot prompts/reprompts, Failure handling, Slot-linked intents | [View Project](./3-Lex%20Chatbot/legendary-aws-ai-lex2.md) |
 
 ## 🛠 AWS Services Explored
 
