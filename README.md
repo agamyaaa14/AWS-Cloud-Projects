@@ -109,11 +109,6 @@ AWS-Cloud-Projects/
 │   └── legendary-aws-genai-bedrock-flows.md
 │
 └── README.md                     # This file
-
-└── 3-Lex Chatbot/               # Amazon Lex Chatbot Projects
-	├── legendary-aws-ai-lex.md
-	├── legendary-aws-ai-lex1.md
-	└── legendary-aws-ai-lex2.md
 ```
 
 ---
