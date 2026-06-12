@@ -28,6 +28,14 @@ These projects helped me move from basic AWS fundamentals to building AI-powered
 
 ---
 
+### 🗣️ Amazon Lex Chatbot
+
+| Project                                 | Skills Demonstrated                                                      | Documentation                          |
+| --------------------------------------- | ------------------------------------------------------------------------ | -------------------------------------- |
+| Build an Amazon Lex Chatbot             | Amazon Lex, Intents, Slots, Lambda Fulfillment, Conversation Design      | [View Project](./3-Lex%20Chatbot/legendary-aws-ai-lex.md) |
+| Lex Chatbot — Multi-turn Flow           | Conversation Design, Slot Filling, Error Handling                        | [View Project](./3-Lex%20Chatbot/legendary-aws-ai-lex1.md) |
+| Lex Bot Integrations & Testing          | Lambda Integration, Testing, Deployment                                  | [View Project](./3-Lex%20Chatbot/legendary-aws-ai-lex2.md) |
+
 ## 🛠 AWS Services Explored
 
 ### Cloud Infrastructure
@@ -101,6 +109,11 @@ AWS-Cloud-Projects/
 │   └── legendary-aws-genai-bedrock-flows.md
 │
 └── README.md                     # This file
+
+└── 3-Lex Chatbot/               # Amazon Lex Chatbot Projects
+	├── legendary-aws-ai-lex.md
+	├── legendary-aws-ai-lex1.md
+	└── legendary-aws-ai-lex2.md
 ```
 
 ---
