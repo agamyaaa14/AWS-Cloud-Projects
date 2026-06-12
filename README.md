@@ -89,28 +89,3 @@ I initially started exploring AWS to understand basic cloud concepts such as net
 As I progressed, I began working with Amazon Bedrock and discovered how cloud infrastructure can be combined with Generative AI to build intelligent applications such as chatbots, finance agents, and email routers.
 
 These projects represent my ongoing journey into Cloud Computing, Generative AI, and AI-powered application development.
-
----
-
-## 📂 Project Structure
-
-```
-AWS-Cloud-Projects/
-├── 1-Cloud Fundamentals/        # Cloud Infrastructure & Security Projects
-│   ├── legendary-aws-account-setup.md
-│   ├── legendary-aws-host-a-website-on-s3.md
-│   ├── legendary-aws-security-iam.md
-│   ├── legendary-aws-networks-vpc.md
-│   └── legendary-aws-beginners-challenge.md
-│
-├── 2-AWS Bedrock GenAI/         # Generative AI Projects with Amazon Bedrock
-│   ├── legendary-aws-genai-bedrock-chatbot.md
-│   ├── legendary-aws-genai-bedrock-agent.md
-│   └── legendary-aws-genai-bedrock-flows.md
-│
-└── README.md                     # This file
-```
-
----
-
-LinkedIn: <LINKEDIN_PROFILE_LINK>
