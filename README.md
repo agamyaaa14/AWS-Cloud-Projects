@@ -36,7 +36,7 @@ These projects helped me move from basic AWS fundamentals to building AI-powered
 | Lex Chatbot — Multi-turn Flow           | Intent & utterance design, Fallback handling, Confidence tuning, Voice/text testing, IAM role configuration | [View Project](./3-Lex%20Chatbot/legendary-aws-ai-lex1.md) |
 | Lex Bot Integrations & Testing          | Custom slot types, Slot filling & validation, Slot prompts/reprompts, Failure handling, Slot-linked intents | [View Project](./3-Lex%20Chatbot/legendary-aws-ai-lex2.md) |
 | Connect Lex with Lambda                 | Lex ↔ Lambda integration, Aliases and versioning, Code hooks, Fulfilment, Backend logic for chatbots, Customizing Lambda responses | [View Project](./3-Lex%20Chatbot/legendary-aws-ai-lex3.md) |
-| Save User Info with Lex Chatbot         | , Output contexts, Input contexts, Session state management, Default slot values, Amazon Lex troubleshooting | [View Project](./3-Lex%20Chatbot/legendary-aws-ai-lex4.md) |
+| Save User Info with Lex Chatbot         | Output contexts, Input contexts, Session state management, Default slot values, Amazon Lex troubleshooting | [View Project](./3-Lex%20Chatbot/legendary-aws-ai-lex4.md) |
 
 ## 🛠 AWS Services Explored
 
