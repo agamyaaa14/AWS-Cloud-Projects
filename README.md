@@ -18,6 +18,7 @@ These projects helped me move from basic AWS fundamentals to building AI-powered
 | Build a Virtual Private Cloud (VPC)     | VPC, Subnets, Internet Gateway, Networking Fundamentals                  | [View Project](./1-Cloud%20Fundamentals/legendary-aws-networks-vpc.md) |
 | Join the Cloud Beginner Challenge       | Learning Path, Cloud Fundamentals, Practical Applications                | [View Project](./1-Cloud%20Fundamentals/legendary-aws-beginners-challenge.md) |
 
+
 ### 🤖 Amazon Bedrock & Generative AI
 
 | Project                                 | Skills Demonstrated                                                      | Documentation                          |
@@ -37,6 +38,7 @@ These projects helped me move from basic AWS fundamentals to building AI-powered
 | Lex Bot Integrations & Testing          | Custom slot types, Slot filling & validation, Slot prompts/reprompts, Failure handling, Slot-linked intents | [View Project](./3-Lex%20Chatbot/legendary-aws-ai-lex2.md) |
 | Connect Lex with Lambda                 | Lex ↔ Lambda integration, Aliases and versioning, Code hooks, Fulfilment, Backend logic for chatbots, Customizing Lambda responses | [View Project](./3-Lex%20Chatbot/legendary-aws-ai-lex3.md) |
 | Save User Info with Lex Chatbot         | Output contexts, Input contexts, Session state management, Default slot values, Amazon Lex troubleshooting | [View Project](./3-Lex%20Chatbot/legendary-aws-ai-lex4.md) |
+| Set Up Multiple Slots in a Lex Chatbot  | Shared slot types, Confirmation prompts, Visual builder design, AWS CloudFormation automation, Infrastructure as Code, Conversational flow logic, Transaction state validation | [View Project](./3-Lex%20Chatbot/legendary-aws-ai-lex5.md) |
 
 ## 🛠 AWS Services Explored
 
