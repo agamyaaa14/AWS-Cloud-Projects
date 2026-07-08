@@ -27,7 +27,6 @@ These projects helped me move from basic AWS fundamentals to building AI-powered
 | AI Finance Agent with Amazon Bedrock    | Bedrock Agents, Code Interpreter, Agent Memory, Financial Analysis       | [View Project](./2-AWS%20Bedrock%20GenAI/legendary-aws-genai-bedrock-agent.md) |
 | AI Email Router with Bedrock Flows      | Bedrock Flows, Prompt Management, Conditional Routing, Guardrails        | [View Project](./2-AWS%20Bedrock%20GenAI/legendary-aws-genai-bedrock-flows.md) |
 
----
 
 ### 🗣️ Amazon Lex Chatbot
 
@@ -40,7 +39,6 @@ These projects helped me move from basic AWS fundamentals to building AI-powered
 | Save User Info with Lex Chatbot         | Output contexts, Input contexts, Session state management, Default slot values, Amazon Lex troubleshooting | [View Project](./3-Lex%20Chatbot/legendary-aws-ai-lex4.md) |
 | Set Up Multiple Slots in a Lex Chatbot  | Shared slot types, Confirmation prompts, Visual builder design, AWS CloudFormation automation, Infrastructure as Code, Conversational flow logic, Transaction state validation | [View Project](./3-Lex%20Chatbot/legendary-aws-ai-lex5.md) |
 
----
 
 ### ☁️ Amazon VPC
 
@@ -54,50 +52,63 @@ These projects helped me move from basic AWS fundamentals to building AI-powered
 ---
 
 
-## 🛠 AWS Services Explored
+## 🛠️ AWS Services Explored
 
-### Cloud Infrastructure
+### Cloud Infrastructure & Networking
+* **Amazon VPC** (Virtual Private Clouds, Subnets, Route Tables, Internet Gateways)
+* **Amazon EC2** (Virtual Servers, Deployment Environments)
+* **Amazon S3** (Simple Storage Service, Static Website Hosting, Bucket Policies)
+* **EC2 Global View** (Cross-Region Resource Management)
+* **AWS CloudShell** (Command Line Interface access)
 
-* Amazon VPC
-* Amazon EC2
-* Amazon S3
-* Internet Gateway
-* CloudShell
+### Security & Access Control
+* **AWS IAM** (Identity and Access Management, Users, Groups, Custom Policies)
+* **MFA** (Multi-Factor Authentication & Account Security)
+* **Security Groups** (Stateful instance-level firewalls)
+* **Network ACLs** (Stateless subnet-level firewalls, Public vs. Private custom NACLs)
 
-### Security
+### Generative AI & Intelligent Agents
+* **Amazon Bedrock** (Foundation Models, Converse API)
+* **Bedrock Agents** (Autonomous agent orchestration, memory preservation)
+* **Bedrock Flows** (Visual workspace for AI workflow design)
+* **Guardrails** (Safety, filter settings, responsible AI system design)
+* **Code Interpreter** (Dynamically running code for data analysis)
 
-* AWS IAM
-* IAM Policies
-* IAM Groups
-* MFA
-* Role-Based Access Control
+### Conversational AI
+* **Amazon Lex** (NLU, Conversational interface design, Slot types, Multi-turn flow)
+* **AWS Lambda** (Serverless backend logic, custom fulfillment code hooks)
 
-### Generative AI
-
-* Amazon Bedrock
-* Amazon Nova Lite
-* Bedrock Agents
-* Bedrock Flows
-* Prompt Management
-* Guardrails
-* Code Interpreter
+### Automation & Infrastructure as Code
+* **AWS CloudFormation** (Automating resource deployment, Infrastructure as Code)
 
 ---
 
 ## 📚 Key Concepts Learned
 
-* Cloud Networking Fundamentals
-* Identity and Access Management (IAM)
-* Static Website Hosting
-* Foundation Models and LLM APIs
-* Prompt Engineering
-* AI Agent Design
-* Workflow Automation
-* Agent Memory and Session Management
-* Responsible AI and Guardrails
-* Trace-Based Debugging
-* Conditional Routing in AI Workflows
+### 1. Cloud Networking & Infrastructure
+* **Subnet Design Architecture:** Designing non-overlapping CIDR blocks, isolating public and private subnets, and managing IPv4 address allocations.
+* **Routing Rules & Traffic Management:** Configuring public route tables pointing to an Internet Gateway and isolating private route tables to block direct internet traffic.
+* **Network Defense-in-Depth:** Deploying multi-layered security using stateful Security Groups (resource-level) and stateless custom Network ACLs (subnet-level) with deny-by-default logic.
+* **Multi-Region Resource Visibility:** Navigating and managing distributed cloud infrastructure utilizing specialized tools like EC2 Global View.
 
+### 2. Cloud Security & IAM Governance
+* **Least Privilege Access:** Developing custom JSON policies to restrict access based on tags, environments (Dev/Prod), and user roles.
+* **IAM Governance:** Structuring administrative controls by organizing users into specialized groups, configuring MFA, and setting up billing alarms for cost governance.
+* **Object Storage Security:** Formulating Amazon S3 bucket policies to enable secure static website hosting while controlling access.
+
+### 3. Conversational AI Design (Amazon Lex)
+* **Conversational Engineering:** Modeling intent-utterance mappings, multi-turn dialogue configurations, fallback handling, and confidence score thresholds.
+* **Data Capture & Session Management:** Designing custom slot types, enforcing slot validation prompts/reprompts, managing session persistence, and using input/output contexts to preserve user states across multi-turn flows.
+* **Serverless Fulfillment:** Integrating chatbots with AWS Lambda backend hooks to dynamically process slot data, construct custom responses, and finalize transactions.
+
+### 4. Generative AI & Workflow Orchestration
+* **Autonomous Agent Architecture:** Building task-specific agents using Bedrock Agents, enabling context retention, and incorporating advanced capabilities like Code Interpreter for run-time data analysis.
+* **Visual Workflow Design:** Designing robust AI processing flows with Bedrock Flows, prompt management systems, and conditional routing logic.
+* **AI Safety & Moderation:** Implementing content filtering, safety checks, and enterprise rules using custom Guardrails to ensure responsible AI behaviors.
+* **Trace-Based Debugging:** Reviewing model processing steps and tracing agent execution pathways to systematically optimize performance.
+
+### 5. Cloud Automation & IaC
+* **Infrastructure as Code (IaC):** Deploying repeatable, declarative templates using AWS CloudFormation to launch unified stacks containing conversational bots and IAM structures.
 ---
 
 ## 🎯 Learning Journey
