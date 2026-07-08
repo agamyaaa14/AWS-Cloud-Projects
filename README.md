@@ -40,6 +40,20 @@ These projects helped me move from basic AWS fundamentals to building AI-powered
 | Save User Info with Lex Chatbot         | Output contexts, Input contexts, Session state management, Default slot values, Amazon Lex troubleshooting | [View Project](./3-Lex%20Chatbot/legendary-aws-ai-lex4.md) |
 | Set Up Multiple Slots in a Lex Chatbot  | Shared slot types, Confirmation prompts, Visual builder design, AWS CloudFormation automation, Infrastructure as Code, Conversational flow logic, Transaction state validation | [View Project](./3-Lex%20Chatbot/legendary-aws-ai-lex5.md) |
 
+---
+
+### ☁️ Amazon VPC
+
+| Project                                 | Skills Demonstrated                                                      | Documentation                          |
+| --------------------------------------- | ------------------------------------------------------------------------ | -------------------------------------- |
+| Build a Virtual Private Cloud           | VPC creation, CIDR blocks, IPv4 addressing, Public subnet design, Internet Gateway configuration | [View Project](./4-VPC/1-legendary-aws-networks-vpc.md)   |
+| VPC Traffic Flow and Security           | Route tables, Stateful Security Groups, Stateless Network ACLs, Cross-region resource management, EC2 Global View | [View Project](./4-VPC/2-legendary-aws-networks-security.md) |
+| Creating a Private Subnet               | Private subnets, Non-overlapping IP routing, Isolated private route tables, Custom NACL firewalls, Defense in depth | [View Project](./4-VPC/3-legendary-aws-networks-privacy.md) |
+
+
+---
+
+
 ## 🛠 AWS Services Explored
 
 ### Cloud Infrastructure
