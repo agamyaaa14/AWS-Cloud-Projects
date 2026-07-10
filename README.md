@@ -44,9 +44,10 @@ These projects helped me move from basic AWS fundamentals to building AI-powered
 
 | Project                                 | Skills Demonstrated                                                      | Documentation                          |
 | --------------------------------------- | ------------------------------------------------------------------------ | -------------------------------------- |
-| Build a Virtual Private Cloud           | VPC creation, CIDR blocks, IPv4 addressing, Public subnet design, Internet Gateway configuration | [View Project](./4-VPC/1-legendary-aws-networks-vpc.md)   |
+| Build a Virtual Private Cloud           | VPC creation, CIDR blocks, IPv4 addressing, Public subnet design, Internet Gateway configuration | [View Project](./4-VPC/1-legendary-aws-networks-vpc.md)      |
 | VPC Traffic Flow and Security           | Route tables, Stateful Security Groups, Stateless Network ACLs, Cross-region resource management, EC2 Global View | [View Project](./4-VPC/2-legendary-aws-networks-security.md) |
 | Creating a Private Subnet               | Private subnets, Non-overlapping IP routing, Isolated private route tables, Custom NACL firewalls, Defense in depth | [View Project](./4-VPC/3-legendary-aws-networks-privacy.md) |
+| Launching VPC Resources                 | EC2 instance deployment (public & private), Key pair security, AWS VPC Resource Map, Automated VPC wizard configuration, Security group rule nesting | [View Project](./4-VPC/4-legendary-aws-networks-ec2.md) |
 
 
 ---
