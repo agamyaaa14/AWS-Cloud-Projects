@@ -39,7 +39,7 @@ This project took me about 60 minutes, including learning how to troubleshoot th
 
 Connectivity is all about how successfully different components in your cloud architecture can talk to each other and exchange data with external networks (such as the public internet). It is the backbone of any application because without connectivity, your servers cannot receive requests or send responses.
 
-I was trying to connect to the NextWork Public Server using EC2 Instance Connect to test whether my public subnet resources are reachable from the AWS console.
+I was trying to connect to the "Agamya Public Server" using EC2 Instance Connect to test whether my public subnet resources are reachable from the AWS console.
 
 ![Image](http://nextwork.ai/happy_azure_swift_duck/uploads/aws-networks-connectivity_88727bef)
 
@@ -96,7 +96,5 @@ Ping and curl are different because ping only checks if a target server is reach
 I ran the curl command "curl example.com" which returned the raw HTML content of the Example Domain home page, showing that the request was processed and returned successfully.
 
 ![Image](http://nextwork.ai/happy_azure_swift_duck/uploads/aws-networks-connectivity_8ee57662)
-
----
 
 ---
