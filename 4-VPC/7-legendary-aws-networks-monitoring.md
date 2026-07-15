@@ -11,7 +11,7 @@
 
 ## VPC Monitoring with Flow Logs
 
-![Image](http://nextwork.ai/happy_azure_swift_duck/uploads/aws-networks-monitoring_3e1e79a1)
+![Image](https://nextwork.ai/projects/static/aws-networks-monitoring/architecture-today.png)
 
 ---
 
