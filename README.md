@@ -58,8 +58,8 @@ These projects helped me move from basic AWS fundamentals to building AI-powered
 
 | Project                                 | Skills Demonstrated                                                      | Documentation                          |
 | --------------------------------------- | ------------------------------------------------------------------------ | -------------------------------------- |
-| Load Data into DynamoDB                 | Amazon DynamoDB, AWS CLI, AWS CloudShell, JSON Data Loading, NoSQL Schemas, Console Management | [View Project](./3-Databases/1-aws-loaddata-dynamodb.md) |
-| Query Data with DynamoDB                | Advanced Querying, Partition & Sort Keys, CLI Transactions, Consistency Controls, Data Filtering | [View Project](./3-Databases/2-aws-querydata-dynamodb.md) |
+| Load Data into DynamoDB                 | Amazon DynamoDB, AWS CLI, AWS CloudShell, JSON Data Loading, NoSQL Schemas, Console Management | [View Project](./5-Databases/1-aws-loaddata-dynamodb.md) |
+| Query Data with DynamoDB                | Advanced Querying, Partition & Sort Keys, CLI Transactions, Consistency Controls, Data Filtering | [View Project](./5-Databases/2-aws-querydata-dynamodb.md) |
 ---
 
 
