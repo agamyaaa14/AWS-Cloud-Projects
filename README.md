@@ -52,6 +52,14 @@ These projects helped me move from basic AWS fundamentals to building AI-powered
 | VPC Peering | Multi-VPC architecture, CIDR planning, VPC Peering connection, Cross-VPC routing, Security group rules, ICMP (ping) testing | [View Project](./4-VPC/6-legendary-aws-networks-peering.md) |
 | VPC Monitoring with Flow Logs | VPC Flow Logs configuration, CloudWatch Log Groups, IAM roles and policies, CloudWatch Logs Insights, log querying and analysis, traffic monitoring | [View Project](./4-VPC/7-legendary-aws-networks-monitoring.md) |
 
+
+
+### 🗄️ Database Management & NoSQL
+
+| Project                                 | Skills Demonstrated                                                      | Documentation                          |
+| --------------------------------------- | ------------------------------------------------------------------------ | -------------------------------------- |
+| Load Data into DynamoDB                 | Amazon DynamoDB, AWS CLI, AWS CloudShell, JSON Data Loading, NoSQL Schemas, Console Management | [View Project](./3-Databases/1-aws-loaddata-dynamodb.md) |
+| Query Data with DynamoDB                | Advanced Querying, Partition & Sort Keys, CLI Transactions, Consistency Controls, Data Filtering | [View Project](./3-Databases/2-aws-querydata-dynamodb.md) |
 ---
 
 
